@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="girnationalparktext" type="PLAIN_TEXT" />
+      <mapping pattern="car" type="PLAIN_TEXT" />
+      <mapping pattern="AboutUs" type="PLAIN_TEXT" />
+      <mapping pattern="drawermenu" type="XML" />
+    </extensionMap>
+  </component>
+</application>

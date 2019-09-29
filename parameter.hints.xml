@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.location.Geocoder.Geocoder(context)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
