@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MachineLearning">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:weightSum="3"
+            android:background="@color/colorPrimary">
+
+            <Button
+                android:id="@+id/linearRegression"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="applyMachineLearning"
+                android:text="LR" />
+
+            <Button
+                android:id="@+id/neuralNetworks"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="applyMachineLearning"
+                android:text="NN" />
+
+            <!--
+            <Button
+                android:id="@+id/decisionTrees"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="applyMachineLearning"
+                android:text="DT" />
+            -->
+
+
+            <Button
+                android:id="@+id/kMeansClustering"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="applyMachineLearning"
+                android:text="Cl" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight="9"
+            android:weightSum="10">
+
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:weightSum="12"
+                android:background="@color/colorPrimary">
+
+                <ImageButton
+                    android:id="@+id/refresh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:onClick="refreshButton"
+                    app:srcCompat="@android:drawable/ic_popup_sync" />
+
+
+                <RadioGroup
+                    android:id="@+id/radiogroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="8">
+
+
+
+                    <RadioButton
+                        android:id="@+id/v"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#9400D3"/>
+
+                    <RadioButton
+                        android:id="@+id/b"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#0000FF"/>
+
+                    <RadioButton
+                        android:id="@+id/g"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#00FF00"/>
+
+                    <RadioButton
+                        android:id="@+id/r"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#FF0000"/>
+
+
+
+                    <!--
+                    <RadioButton
+                        android:id="@+id/v"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#9400D3"/>
+
+                    <RadioButton
+                        android:id="@+id/i"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#4B0082"/>
+
+                    <RadioButton
+                        android:id="@+id/b"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#0000FF"/>
+
+                    <RadioButton
+                        android:id="@+id/g"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#00FF00"/>
+
+                    <RadioButton
+                        android:id="@+id/y"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#FFFF00"/>
+
+                    <RadioButton
+                        android:id="@+id/o"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:buttonTint="#FF7F00"/>
+
+                    <RadioButton
+                        android:id="@+id/r"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:checked="true"
+                        android:text=""
+                        android:buttonTint="#FF0000"/>
+                    -->
+
+                </RadioGroup>
+
+
+                <ImageButton
+                    android:id="@+id/imageButton2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:onClick="deleteButton"
+                    app:srcCompat="@android:drawable/ic_menu_delete" />
+
+
+            </LinearLayout>
+
+            <com.example.scientificcalculator.CrashView
+                android:id="@+id/crashView"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="9" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
