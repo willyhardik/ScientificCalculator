@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d26292b7965aefbe41428e815a0cb5a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\2e5156d9215b190b6502b2dc446d07f1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\241a63a5df8e5811540ea0d89f306d0c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\f95c49665e790341bbfac4ff71f6c021\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\657c8fad69b75f7156f40e70ec53c578\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\078ef72de5bef3e3280ce835b965a2b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\917e535331cfbc72a79a108b75ce7f6a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\7a0979a4358f26966dd80119c59d131d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\22a29c1653ec2971b258104cff0f8b3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\8fdce24be4191c9527d482bb8128f534\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\4b577f1a9a6a16aac432343a6335b379\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\42689b47f72453e46230bfebd3ea2466\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\aae04e439260f9b58c280c9b31489526\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\cc8a287f5d91a894427aa6c5b2cbb471\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bb4f511608964187656ebc7a77a6e179\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\024ea2543cd4007068e9d4de84931fc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b9f3ec289c660d5e2dbaef28eaae9cf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\ee991a553df0afe51183b8f0c802c9e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\fffd5f3eca30fe5406dc725876174872\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b28480e7fe873e63ab6d7333a17c86b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\cb39409d96337e7b090725258b7407b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\931ee15acc45fcbbd1653a67f1f79dc2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\249f618d9ee6a178184f138cabd58a09\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\9a49b8238fc73ad101086d7ebc724b22\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\17b494cfaa3d98516cd0cf6e5a0923f0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b0f05b282a646f6cdd478ace1aa5be03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\5190803ddca3bef7fec03314a45ec1a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d42d16081cf11fee2fb0f22f1c4df7aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\94a4b83d656be0d8737d748274eb390e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bff7562ca7b7c8ccef01a6238416da5d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bf4d56389ab5c658a8b75eae0485b7b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13b344e9af103b6c8877702d305c6ee3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\973309f6ac3187dd31ee4f145b9ed507\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\fcf4bc9a913a0c9268ea62fb830a7880\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.Camera
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:8:9-47
+application
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:11:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\2e5156d9215b190b6502b2dc446d07f1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\2e5156d9215b190b6502b2dc446d07f1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\241a63a5df8e5811540ea0d89f306d0c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\241a63a5df8e5811540ea0d89f306d0c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\f95c49665e790341bbfac4ff71f6c021\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\f95c49665e790341bbfac4ff71f6c021\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\657c8fad69b75f7156f40e70ec53c578\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\657c8fad69b75f7156f40e70ec53c578\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\917e535331cfbc72a79a108b75ce7f6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\917e535331cfbc72a79a108b75ce7f6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\7a0979a4358f26966dd80119c59d131d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\7a0979a4358f26966dd80119c59d131d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\931ee15acc45fcbbd1653a67f1f79dc2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\931ee15acc45fcbbd1653a67f1f79dc2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\249f618d9ee6a178184f138cabd58a09\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\249f618d9ee6a178184f138cabd58a09\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\9a49b8238fc73ad101086d7ebc724b22\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\9a49b8238fc73ad101086d7ebc724b22\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\249f618d9ee6a178184f138cabd58a09\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.scientificcalculator.MachineLearning
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:18:9-62
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:18:19-50
+activity#com.example.scientificcalculator.OCRCalculator
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:19:19-48
+meta-data#com.google.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:20:13-22:39
+	android:value
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:22:17-36
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:21:17-66
+activity#com.example.scientificcalculator.MainActivity
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d26292b7965aefbe41428e815a0cb5a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d26292b7965aefbe41428e815a0cb5a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\2e5156d9215b190b6502b2dc446d07f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\2e5156d9215b190b6502b2dc446d07f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\241a63a5df8e5811540ea0d89f306d0c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\241a63a5df8e5811540ea0d89f306d0c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\f95c49665e790341bbfac4ff71f6c021\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\f95c49665e790341bbfac4ff71f6c021\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\657c8fad69b75f7156f40e70ec53c578\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\657c8fad69b75f7156f40e70ec53c578\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\078ef72de5bef3e3280ce835b965a2b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\078ef72de5bef3e3280ce835b965a2b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\917e535331cfbc72a79a108b75ce7f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\917e535331cfbc72a79a108b75ce7f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\7a0979a4358f26966dd80119c59d131d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\7a0979a4358f26966dd80119c59d131d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\22a29c1653ec2971b258104cff0f8b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\22a29c1653ec2971b258104cff0f8b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\8fdce24be4191c9527d482bb8128f534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\8fdce24be4191c9527d482bb8128f534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\4b577f1a9a6a16aac432343a6335b379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\4b577f1a9a6a16aac432343a6335b379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\42689b47f72453e46230bfebd3ea2466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\42689b47f72453e46230bfebd3ea2466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\aae04e439260f9b58c280c9b31489526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\aae04e439260f9b58c280c9b31489526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\cc8a287f5d91a894427aa6c5b2cbb471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\cc8a287f5d91a894427aa6c5b2cbb471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bb4f511608964187656ebc7a77a6e179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bb4f511608964187656ebc7a77a6e179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\024ea2543cd4007068e9d4de84931fc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\024ea2543cd4007068e9d4de84931fc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b9f3ec289c660d5e2dbaef28eaae9cf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b9f3ec289c660d5e2dbaef28eaae9cf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\ee991a553df0afe51183b8f0c802c9e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\ee991a553df0afe51183b8f0c802c9e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\fffd5f3eca30fe5406dc725876174872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\fffd5f3eca30fe5406dc725876174872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b28480e7fe873e63ab6d7333a17c86b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b28480e7fe873e63ab6d7333a17c86b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\cb39409d96337e7b090725258b7407b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\cb39409d96337e7b090725258b7407b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\931ee15acc45fcbbd1653a67f1f79dc2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\931ee15acc45fcbbd1653a67f1f79dc2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\249f618d9ee6a178184f138cabd58a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\249f618d9ee6a178184f138cabd58a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\9a49b8238fc73ad101086d7ebc724b22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\9a49b8238fc73ad101086d7ebc724b22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\17b494cfaa3d98516cd0cf6e5a0923f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\17b494cfaa3d98516cd0cf6e5a0923f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b0f05b282a646f6cdd478ace1aa5be03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\b0f05b282a646f6cdd478ace1aa5be03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\5190803ddca3bef7fec03314a45ec1a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\5190803ddca3bef7fec03314a45ec1a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d42d16081cf11fee2fb0f22f1c4df7aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d42d16081cf11fee2fb0f22f1c4df7aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\94a4b83d656be0d8737d748274eb390e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\94a4b83d656be0d8737d748274eb390e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bff7562ca7b7c8ccef01a6238416da5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bff7562ca7b7c8ccef01a6238416da5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bf4d56389ab5c658a8b75eae0485b7b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\bf4d56389ab5c658a8b75eae0485b7b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13b344e9af103b6c8877702d305c6ee3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13b344e9af103b6c8877702d305c6ee3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\973309f6ac3187dd31ee4f145b9ed507\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\973309f6ac3187dd31ee4f145b9ed507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\fcf4bc9a913a0c9268ea62fb830a7880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\fcf4bc9a913a0c9268ea62fb830a7880\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hardik\Desktop\wifi\ScientificCalculator\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\13c9483417d30300533415ae0516d1ac\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\d35751c250bfacfc814287b8f7ee2968\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\931ee15acc45fcbbd1653a67f1f79dc2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\931ee15acc45fcbbd1653a67f1f79dc2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Hardik\.gradle\caches\transforms-2\files-2.1\611dad6e5afd00dae636677b6a56ccd9\AndroidManifest.xml:27:13-51
